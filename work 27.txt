@@ -1,0 +1,15 @@
+preview.uideck.com/items/nova/
+preview.uideck.com/items/delivery/
+preview.uideck.com/items/arch/
+preview.uideck.com/items/core/
+
+
+wow js (net search for animation)
+wow.min.js (download)
+Example: <script src="js/wow.min.js"></script>
+              <script>
+              new WOW().init();
+              </script>
+
+swiper js (net search)
+
